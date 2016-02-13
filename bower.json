@@ -1,0 +1,24 @@
+{
+  "name": "sruthikuppa_comp308_assignment1",
+  "description": "comp308 assigment1",
+  "main": "",
+  "authors": [
+    "SruthiKuppa <sruthi1020s@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SruthiKuppa/COMP308Assignment1",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
